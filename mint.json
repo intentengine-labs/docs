@@ -1,7 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "IntentEngine",
-  "favicon": "/favicon.ico",
   "colors": {
     "primary": "#10b981",
     "light": "#34d399",
